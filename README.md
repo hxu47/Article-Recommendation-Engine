@@ -127,6 +127,9 @@ The `-D` means put the server in daemon mode, which runs in the background.
 
 ## Reference:
 [Standalone WSGI Containers](http://flask.pocoo.org/docs/1.0/deploying/wsgi-standalone/)
+
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
+
 [Word similarity and relationships](https://github.com/parrt/msds501/blob/master/projects/wordsim.md)
+
 [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
