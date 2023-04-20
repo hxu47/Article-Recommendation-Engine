@@ -30,7 +30,7 @@ Clicking on one of those articles takes you to an article page that shows the te
 <img src=figures/article2.png width=450>
 
 
-Main functions of the algorithms are implemented in [doc2vec.py](https://github.com/hxu47/Article-Recommendation-Engine/main/doc2vec.py).
+Main functions of the algorithms are implemented in [doc2vec.py](https://github.com/hxu47/Article-Recommendation-Engine/blob/main/doc2vec.py).
 
 Walkthrough of the functions is in [walkthrough.ipynb](https://github.com/hxu47/Article-Recommendation-Engine/blob/main/walkthrough.ipynb).
 
